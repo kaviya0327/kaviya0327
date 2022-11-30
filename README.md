@@ -1,0 +1,3 @@
+- 👋 Hi, I’m kaviya
+- 👀 I’m interested in **Data Analytics**
+- 🌱 I’m currently learning **Programming**
